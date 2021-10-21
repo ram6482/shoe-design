@@ -11,8 +11,7 @@
     <h1>Sample Card View Using Flex</h1>
     <div class='container'>
         <div class="card">
-            <img src="./img/img1.jpg">
-            <span class="price">$20</span>
+            <img20</span>
             <a href="https://www.amazon.in/Lancer-Running-Shoes-9-India-INDUS-26LGR-RBL-9/dp/B07FG7SYWF/ref=asc_df_B07FG7SYWF/?tag=googleshopdes-21&linkCode=df0&hvadid=396988846071&hvpos=&hvnetw=g&hvrand=12103175069738604064&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9062193&hvtargid=pla-841008878876&psc=1&ext_vrnc=hi" target="_blank"><button>Buy here</button></a>
         </div>
         <div class="card">
@@ -22,6 +21,10 @@
         </div>
         <div class="card">
             <img src="./img/img3.jpg">
+            <img src="./img/img1.jpg">
+            <span class="price">$20</span>
+            <a href="https://ww
+            9-India-INDUS-26LGR-RBL-9/d
             <span class="price">$15</span>
             <a href="https://www.amazon.in/Lancer-Running-Shoes-9-India-INDUS-26LGR-RBL-9/dp/B07FG7SYWF/ref=asc_df_B07FG7SYWF/?tag=googleshopdes-21&linkCode=df0&hvadid=396988846071&hvpos=&hvnetw=g&hvrand=12103175069738604064&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9062193&hvtargid=pla-841008878876&psc=1&ext_vrnc=hi" target="_blank"><button>Buy here</button></a>
         </div>
@@ -40,20 +43,28 @@
             <span class="price">$20</span>
             <a href="https://www.amazon.in/Lancer-Running-Shoes-9-India-INDUS-26LGR-RBL-9/dp/B07FG7SYWF/ref=asc_df_B07FG7SYWF/?tag=googleshopdes-21&linkCode=df0&hvadid=396988846071&hvpos=&hvnetw=g&hvrand=12103175069738604064&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9062193&hvtargid=pla-841008878876&psc=1&ext_vrnc=hi" target="_blank"><button>Buy here</button></a>
         </div>
+        <dilex</h1>
+    <div class='container'>
         <div class="card">
-            <img src="./img/img3.jpg">
+            <img src="./img/img1.jpg">
             <span class="price">$20</span>
             <a href="https://www.amazon.in/Lancer-Running-Shoes-9-India-INDUS-26LGR-RBL-9/dp/B07FG7SYWF/ref=asc_df_B07FG7SYWF/?tag=googleshopdes-21&linkCode=df0&hvadid=396988846071&hvpos=&hvnetw=g&hvrand=12103175069738604064&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9062193&hvtargid=pla-841008878876&psc=1&ext_vrnc=hi" target="_blank"><button>Buy here</button></a>
         </div>
         <div class="card">
             <img src="./img/img4.jpg">
             <span class="price">$20</span>
+            h1>Sample Card View Using Flex</h1>
+    <div class='container'>
+        <div class="card">
+            <img src="./img/img1.jpg">
+            <span class="price">$20</span>
             <a href="https://www.amazon.in/Lancer-Running-Shoes-9-India-INDUS-26LGR-RBL-9/dp/B07FG7SYWF/ref=asc_df_B07FG7SYWF/?tag=googleshopdes-21&linkCode=df0&hvadid=396988846071&hvpos=&hvnetw=g&hvrand=12103175069738604064&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9062193&hvtargid=pla-841008878876&psc=1&ext_vrnc=hi" target="_blank"><button>Buy here</button></a>
         </div>
         <div class="card">
             <img src="./img/img1.jpg">
             <span class="price">$20</span>
-            <a href="https://www.amazon.in/Lancer-Running-Shoes-9-India-INDUS-26LGR-RBL-9/dp/B07FG7SYWF/ref=asc_df_B07FG7SYWF/?tag=googleshopdes-21&linkCode=df0&hvadid=396988846071&hvpos=&hvnetw=g&hvrand=12103175069738604064&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9062193&hvtargid=pla-841008878876&psc=1&ext_vrnc=hi" target="_blank"><button>Buy here</button></a>
+            <a href="https://ww
+            9-India-INDUS-26LGR-RBL-9/dp/B07FG7SYWF/ref=asc_df_B07FG7SYWF/?tag=googleshopdes-21&linkCode=df0&hvadid=396988846071&hvpos=&hvnetw=g&hvrand=12103175069738604064&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9062193&hvtargid=pla-841008878876&psc=1&ext_vrnc=hi" target="_blank"><button>Buy here</button></a>
         </div><div class="card">
             <img src="./img/img1.jpg">
             <span class="price">$20</span>
